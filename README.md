@@ -1,1 +1,1 @@
-# Wiki_Nell_Knowledge_Graph
+# Constructing Knowledge Graph from Wiki and Nell datasets 
